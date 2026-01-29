@@ -1,4 +1,4 @@
-# Task on Terraform Topic 
+# Task on Terraform Topic  
 
 Write Terraform code that configures the GitHub repository according to the following requirements, execute it and save your Terraform code in a repository secret named `TERRAFORM`.
 
